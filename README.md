@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently exploring **Flutter,Backend Development**
+- 🌱 I’m currently exploring **Blockchain development**
 
 - 👯 I’m looking to collaborate with **Other content creators**
 
