@@ -1,33 +1,47 @@
-<h1 align="center">Hi 👋, I'm Aparna</h1>
-<h3 align="center">A Student Developer from Kerala, India✨</h3>
+<h1 align="center">Hey there👋, I'm Aparna</h1>
+<p align="center">
+  <img src="Background.png" width="400" alt="Aparna" />
+</p>
+<h3 align="center">A software developer with 2+ years of experience working with Next.js, React, and Node.js.
+I enjoy solving problems, chasing bugs across the codebase, and celebrating small wins like a successful build on the first try.
+  Curious by nature, powered by trial and error, and always shipping something better than yesterday.</h3>
 
-- 🔭 I’m currently working on **Web Development**
+<br />
 
-- 🌱 I’m currently exploring **Blockchain development**
+<h2 align="center"> 👨‍💻 Languages and Tools:</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,javascript,ts,react,next,vercel,nodejs,linux,vscode,html,css,styledcomponents,java,materialui,sass,tailwind,bootstrap,python,c,git,github,bash,figma,gatsby,githubactions,redux,mongodb,mysql,postgres,powershell,ai,&perline=8" />
+  </a>
+</p>
 
-- 👯 I’m looking to collaborate with **Other content creators**
+<h2 align="center"> My Github Stat's:</h2>
 
-- 💬 Ask me about **python**
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-p-a-r-na&theme=radical"/>
+  </a>
+</p>
+
+<h2 align="center">💻 Most used languages</h2>
+
+<br/>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-a-p-a-r-na.vercel.app/api/top-langs/?username=A-p-a-r-na&layout=compact&langs_count=10&theme=material-palenight"
+  />
+</p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/itz_me_aparna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aparnalekshmi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/Ap_r_nah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<h3 align="left">My Github Stat's:</h3>
-
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=A-p-a-r-na&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-p-a-r-na&layout=compact&theme=radical)](https://github.com/A-p-a-r-na/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-p-a-r-na&theme=radical)](https://git.io/streak-stats)
-
-
 
 
 
